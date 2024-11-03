@@ -34,8 +34,8 @@ Here are the programming languages and frameworks I have used:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 My GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leobelab&layout=compact&theme=radical)
+## 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobelab)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leobelab&show_icons=true&theme=radical)
 
 ---
