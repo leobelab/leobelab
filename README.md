@@ -35,7 +35,7 @@ Here are the programming languages and frameworks I have used:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobenlab&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobelab&langs_count=8&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leobelab&show_icons=true&theme=radical)
 
 ---
