@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Leo Benitez
 
 🎓 Computer Science student.
-
+<!--
 ## ⚡About me
 
 🎓 I am Leo Benítez Labit, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2022.
@@ -14,7 +14,7 @@
 
 ✈️ I love traveling too. I have been on solo trips to Bhutan in 2018 and to Hyderabad, India in 2021.
 
-
+-->
 ## 🔧 Skills
 
 Here are the programming languages and frameworks I have used:
