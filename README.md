@@ -39,7 +39,7 @@ Here are the programming languages and frameworks I have used:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leobelab&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leobelab&layout=compact&langs_count=8&card_width=280&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leobelab&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </a>
 
 ---
