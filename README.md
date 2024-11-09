@@ -25,6 +25,8 @@ Here are the programming languages and frameworks I have used:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Icon](https://github.com/leobelab/leobelab/images/css_icon.svg)
+
 
 
 
