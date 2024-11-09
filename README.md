@@ -25,11 +25,6 @@ Here are the programming languages and frameworks I have used:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<svg width="100" height="100" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#1572B6" d="M19.4 2.4l10.6 116.6 43.5 11.9 43.5-11.9 10.6-116.6z"/>
-  <path fill="#33A9DC" d="M64 119.2l35.1-9.6 9.1-101.8h-44.2z"/>
-  <path fill="#FFF" d="M64 55.2h-17.6l-1.2-13.3h18.8V28.8H44.4L47.1 61.7H64zM64 87.8l-.1.1-15.7-4.3-.1-14.4h-13l.2 22.8 28.6 7.9.1-.1v-10.2zm0 0h-.1-.1zm15.5-18.7l-.7 8.4-14.7 4v10.2l23.3-6.5.1-.1 1.5-16.6z"/>
-</svg>
 
 
 
