@@ -23,7 +23,6 @@ Here are the programming languages and frameworks I have used:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" width="60">
@@ -35,9 +34,7 @@ Here are the programming languages and frameworks I have used:
 
 
 ### Frameworks & Libraries
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
 
 
 ### Others
