@@ -24,20 +24,31 @@ Here are the programming languages and frameworks I have used:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" width="60">
+
 
 
 
 
 ### Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
+
 
 ### Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
+
 
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
