@@ -30,9 +30,6 @@ Here are the programming languages and frameworks I have used:
   <a href= "https://www.java.com/en/">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="60">
   </a>
-  <a href= "https://git-scm.com/">
-    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60">
-  </a>
   <a href= "https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60">
   </a>  
@@ -83,13 +80,18 @@ Here are the programming languages and frameworks I have used:
 
 
 ### Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
+  <a href= "https://www.docker.com/">
+    <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="60">
+  </a>
+  <a href= "https://www.postgresql.org/">
+    <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="60">
+  </a>
+  <a href= "https://developer.android.com/studio">
+    <img src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" width="60">
+  </a>
+  <a href= "https://git-scm.com/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60">
+  </a>
   <a href= "https://www.arduino.cc/">
     <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" width="60"> 
   </a>
