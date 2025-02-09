@@ -20,8 +20,48 @@
 Here are the programming languages and frameworks I have used:
 
 ### Languages
-<a href= "https://www.python.org/"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="60"> <a> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" width="60"> 
-<img src="https://icon.icepanel.io/Technology/svg/Erlang.svg" width="60"> 
+<body>
+  <a href= "https://www.python.org/"> 
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="60"> 
+  </a> 
+  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" width="60"> 
+  </a>
+  <a href= "https://www.java.com/en/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="60">
+  </a>
+  <a href= "https://git-scm.com/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width="60">
+  </a>
+  <a href= "https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60">
+  </a>  
+  <a href= "https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" width="60">
+  </a>
+  <a href= "https://www.w3schools.com/c/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="60">
+  </a>
+  <a href= "https://www.w3schools.com/cs/index.php">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width="60">
+  </a>
+  <a href= "https://www.w3schools.com/cpp/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" width="60">
+  </a>
+  <a href= "https://kotlinlang.org/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg" width="60">
+  </a>
+  <a href= "https://www.typescriptlang.org/">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" width="60">
+  </a>
+  <a href= "https://www.erlang.org/">
+    <img src="https://icon.icepanel.io/Technology/svg/Erlang.svg" width="60"> 
+  </a>
+  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+  </a>
+  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+  </a>
+</body>
 
 ### Frameworks & Libraries
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
