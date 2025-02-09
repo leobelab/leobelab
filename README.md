@@ -55,7 +55,7 @@ Here are the programming languages and frameworks I have used:
     <img src="https://icon.icepanel.io/Technology/svg/Erlang.svg" width="60"> 
   </a>
   <a href= "https://www.r-project.org/">
-    <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="50"> 
+    <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="30"> 
   </a>
 
 
