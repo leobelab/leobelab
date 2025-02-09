@@ -94,7 +94,6 @@ Here are the programming languages and frameworks I have used:
     <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" width="60"> 
   </a>
 
-</body>
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leobelab&theme=radical" />
@@ -104,6 +103,8 @@ Here are the programming languages and frameworks I have used:
 </a>
 
 ---
+</body>
+
 
 
 <!--
