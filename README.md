@@ -77,7 +77,7 @@ Here are the programming languages and frameworks I have used:
     <img src="https://icon.icepanel.io/Technology/svg/Qt-Framework.svg" width="60">
   </a>
   <a href= "https://pinia.vuejs.org/">
-    <img src="https://rubenr.dev/.netlify/images?w=1280&url=%2Fimg%2Fcontent%2Fpinia-vuex-pinia-logo.png" width="50">
+    <img src="https://rubenr.dev/.netlify/images?w=1280&url=%2Fimg%2Fcontent%2Fpinia-vuex-pinia-logo.png" width="40">
   </a>
   
   
