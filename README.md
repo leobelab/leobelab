@@ -57,14 +57,29 @@ Here are the programming languages and frameworks I have used:
   <a href= "https://www.erlang.org/">
     <img src="https://icon.icepanel.io/Technology/svg/Erlang.svg" width="60"> 
   </a>
-  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a href= "https://www.r-project.org/">
+    <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="60"> 
   </a>
-  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
-  </a>
-</body>
+
+
 
 ### Frameworks & Libraries
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
+  <a href= "https://jquery.com/">
+    <img src="https://icon.icepanel.io/Technology/svg/jQuery.svg" width="60">
+  </a>
+  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" width="60">
+  </a>
+  <a href= "https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg" width="60">
+  </a>
+  <a href= "https://pandas.pydata.org/">
+    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="60">
+  </a>
+  <a href= "https://www.qt.io/">
+    <img src="https://icon.icepanel.io/Technology/svg/Qt-Framework.svg" width="60">
+  </a>
+  
 
 
 ### Others
@@ -75,8 +90,11 @@ Here are the programming languages and frameworks I have used:
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
+  <a href= "https://www.arduino.cc/">
+    <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" width="60"> 
+  </a>
 
-
+</body>
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leobelab&theme=radical" />
